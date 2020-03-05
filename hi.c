@@ -1,2 +1,1 @@
-#This is hi.c file
-#This is good.
+#This is no good.
